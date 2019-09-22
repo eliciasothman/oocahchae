@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieghohhueb.jdmeg.com/sitemap.xml
